@@ -1,0 +1,5 @@
+proj_scam/
+__pycache__/
+*.pyc
+.env
+.env.*
